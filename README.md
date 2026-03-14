@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SVM Classification using Machine Learning
 
 ## Overview
@@ -42,3 +43,7 @@ pip install -r requirements.txt
 Run notebook
 
 jupyter notebook
+=======
+# svm-classification-ml
+Machine Learning project implementing Support Vector Machine (SVM) for classification with data preprocessing, model training, and evaluation.
+>>>>>>> 103259ea8717a4fec589ce512dfebdc6bbd74a54
